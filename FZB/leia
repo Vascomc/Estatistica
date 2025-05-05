@@ -16,6 +16,12 @@ Arquivo no word com os passos e comandos utilizados.
 Escrevam as concusões para os teste de pressupostos e avaliação dos modelos.
 
 
+OBS.: QUEM NÃO TIVER CONKUNDO DE DADOS USAR O ABAIXO:
 
+# no script do R
+dados <- data(mtcars
+
+# para informações do conjunto de dados
+help(dados)
 
 
