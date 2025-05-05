@@ -1,1 +1,21 @@
+Olá Pessoas, tudo bem?
+
+O que fazer. 
+Pegar um conjunto de dados que contenha cerca de 5 variáveis. O que se atentar: Uma variável qualitativa nominal e 4 quantitativas.
+
+o que fazer?
+- Indicar a variável resposta.
+1. Estatística resumo;
+2. Um modelo ANOVA;
+3. Um modelo Regressao linear simples;
+4. Um modelo Regressao linear multipla;
+   - Usar a função step() para selecionar o modelo mais parcimonioso, lembrando que escolhemos o MENOR valor de AIC.
+
+o que deverão me enviar.
+Arquivo no word com os passos e comandos utilizados. 
+Escrevam as concusões para os teste de pressupostos e avaliação dos modelos.
+
+
+
+
 
